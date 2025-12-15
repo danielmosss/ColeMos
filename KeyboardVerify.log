@@ -1,0 +1,5 @@
+    WARNING: \ (U+005c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Base' and VK_OEM_5, ShiftState 'Base').
+    WARNING: | (U+007c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Shift' and VK_OEM_5, ShiftState 'Shift').
+    WARNING: By convention, the last entry in the dead key table for ''' (U+0027) should be a space (to create a spacing version of the dead key).
+    WARNING: By convention, the last entry in the dead key table for '"' (U+0022) should be a space (to create a spacing version of the dead key).
+    WARNING: By convention, the last entry in the dead key table for '`' (U+0060) should be a space (to create a spacing version of the dead key).
